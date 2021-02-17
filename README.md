@@ -2,9 +2,10 @@
 <hr />
 
 <p>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI/blob/master/IMG/Screenshot_1613570795.png"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI/blob/master/IMG/Screenshot_1613570803.png"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI/blob/master/IMG/Screenshot_1613570821.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo/blob/master/IMG/IMG_0704.PNG"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo/blob/master/IMG/IMG_0705.PNG"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo/blob/master/IMG/IMG_0707.PNG"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo/blob/master/IMG/IMG_0709.PNG"/>
 </p>
 
 
@@ -12,6 +13,7 @@
 <h2><i>Used Technologies: </i></h2>
 <p>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 <hr />
