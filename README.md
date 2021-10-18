@@ -2,10 +2,10 @@
 <hr />
 
 <p>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__E-Commerce-App/blob/master/IMG/IMG_0704.PNG?raw=true"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo/blob/master/IMG/IMG_0705.PNG"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo/blob/master/IMG/IMG_0707.PNG"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo/blob/master/IMG/IMG_0709.PNG"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__E-Commerce-App/blob/master/IMG/IMG_0704.PNG"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__E-Commerce-App/blob/master/IMG/IMG_0705.PNG"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__E-Commerce-App/blob/master/IMG/IMG_0707.PNG"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__E-Commerce-App/blob/master/IMG/IMG_0709.PNG"/>
 </p>
 
 
